@@ -1,4 +1,4 @@
-# Clinical_CoT
+# Clinical CoT
 Official Repo for the paper "Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales"
 Paper link: [https://arxiv.org/abs/2312.07399](https://arxiv.org/abs/2312.07399)
 
