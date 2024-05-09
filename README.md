@@ -1,4 +1,4 @@
-# Clinical CoT
+# Clinical CoT (AAAI 2024)
 Official Repo for the paper "Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales"
 Paper link: [https://arxiv.org/abs/2312.07399](https://arxiv.org/abs/2312.07399)
 
