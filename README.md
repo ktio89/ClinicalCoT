@@ -1,16 +1,16 @@
 # Clinical CoT (AAAI 2024)
-Official Repo for the paper "*Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales*"\
+Official Repo for the paper "**Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales**"\
 Paper link: [https://arxiv.org/abs/2312.07399](https://arxiv.org/abs/2312.07399)
 
 # This repo provides ...
-This repo contains the 2 few-shot clinical chain-of-thought exemplars created by humans and machines (2 licensed radiologists and GPT-4 work together).\
-These shots are used to prompt the LLMs to *generate clinical rationales* that link the provided patient information (e.g., EHR) to the final diagnosis of Alzheimer's disease (AD, MCI, or NC).\
-Specifically, these are used in our *Module I: Clinical Rationalization* and *Module II-1: Few-shot CoT Reasoning*.
+This repo contains the 2 few-shot clinical chain-of-thought exemplars **created by humans and machines** (2 licensed radiologists and GPT-4 work together).\
+These shots are used to prompt the LLMs to **generate clinical rationales** that link the provided patient information (e.g., EHR) to the final diagnosis of Alzheimer's disease (AD, MCI, or NC).\
+Specifically, these are used in our **Module I: Clinical Rationalization** and **Module II-1: Few-shot CoT Reasoning**.
 
 # One can use these exemplars to ...
 Researchers can utilize our expert-provided exemplars to guide the CoT reasoning in AD diagnosis with LLMs.\
 This can serve as a strong baseline for comparison.\
-The use of these exemplars should be *only for educational purposes*. 
+The use of these exemplars should be **only for educational purposes**. 
 
 # Citation
 If you applied our exemplars in your work, please use the following BibTeX to cite our paper\
