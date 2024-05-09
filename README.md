@@ -3,7 +3,7 @@ Official Repo for the paper "**Large Language Models are Clinical Reasoners: Rea
 Paper link: [https://arxiv.org/abs/2312.07399](https://arxiv.org/abs/2312.07399)
 
 # This repo provides ...
-This repo contains the 2 few-shot clinical chain-of-thought exemplars **created by humans and machines** (2 licensed radiologists and GPT-4 work together).\
+This repo contains two few-shot clinical chain-of-thought exemplars **created by humans and machines** (2 licensed radiologists and GPT-4 work together).\
 These shots are used to prompt the LLMs to **generate clinical rationales** that link the provided patient information (e.g., EHR) to the final diagnosis of Alzheimer's disease (AD, MCI, or NC).\
 Specifically, these are used in our **Module I: Clinical Rationalization** and **Module II-1: Few-shot CoT Reasoning**.
 
