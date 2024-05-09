@@ -13,7 +13,7 @@ This can serve as a strong baseline for comparison.
 The use of these exemplars should be *only for educational purposes*. 
 
 # Citation
-If you applied our exemplars in your work, please use the following BibTeX to cite our paper:
+If you applied our exemplars in your work, please use the following BibTeX to cite our paper (instead of citing the ArXiv one):
 ```
 @inproceedings{kwon2024large,
   title={Large Language Models Are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales},
