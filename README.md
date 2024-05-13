@@ -3,7 +3,7 @@ Official Repo for the paper "**Large Language Models are Clinical Reasoners: Rea
 Paper link: [https://arxiv.org/abs/2312.07399](https://arxiv.org/abs/2312.07399)
 
 # This repo provides ...
-This repo contains two few-shot clinical chain-of-thought exemplars, each with contain:\
+This repo contains two few-shot clinical chain-of-thought exemplars, each contains:\
 patient description + clinical CoT rationales + final diagnosis\
 **The CoT rationales here are created by humans and machines** (2 licensed radiologists and GPT-4 work together). 
 \
