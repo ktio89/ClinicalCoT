@@ -5,7 +5,7 @@ Paper link: [https://arxiv.org/abs/2312.07399](https://arxiv.org/abs/2312.07399)
 # This repo provides ...
 This repo contains two few-shot clinical chain-of-thought exemplars, each with contain:\
 patient description + clinical CoT rationales + final diagnosis\
-**The CoT rationales here are created by humans and machines** (2 licensed radiologists and GPT-4 work together).\ 
+**The CoT rationales here are created by humans and machines** (2 licensed radiologists and GPT-4 work together). 
 \
 These shots are used to prompt the LLMs to **generate clinical rationales** that link the provided patient information (e.g., EHR) to the final diagnosis of Alzheimer's disease (AD, MCI, or NC).\
 Specifically, these are used in our **Module I: Clinical Rationalization** and **Module II-1: Few-shot CoT Reasoning**.
